@@ -1,6 +1,7 @@
 {
 	"name": "vscode-pix",
 	"displayName": "Pix",
+	"publisher": "tuliospuri",
 	"description": "Pix no VSCode",
 	"version": "0.0.1",
 	"engines": {
@@ -9,6 +10,12 @@
 	"categories": [
 		"Other"
 	],
+	"icon": "resources/icons/pix-colored.png",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/tuliospuri/vscode-pix"
+	},
+	"homepage": "http://github.com/tuliospuri/vscode-pix/blob/main/README.md",
 	"keywords": [
 		"Pix",
 		"Carteira"
