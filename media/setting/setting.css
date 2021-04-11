@@ -1,0 +1,29 @@
+form {
+	margin-top: 15px;
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+#containerSettings,
+#containerSettingsStatus {
+	display: none;
+}
+
+#apiClientId,
+#apiClientSecret,
+#certificate,
+#privateKey,
+#payerKey {
+	font-family: var(--vscode-editor-font-family);
+}
+
+#containerSettingsStatus {
+	line-height: 160%;
+	margin: 10px 0;
+}
+
+#containerSettingsStatus p:nth-child(2) {
+	margin-left: 14px;
+}

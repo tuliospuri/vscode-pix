@@ -1,0 +1,57 @@
+<svg width="166" height="166" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata8">image/svg+xml</metadata>
+ <defs>
+  <clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
+   <path id="path16" d="m0,1080l1920,0l0,-1080l-1920,0l0,1080z"/>
+  </clipPath>
+  <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+   <path id="path24" d="m2.31224,1078.650024l1919.397721,0l0,-1078.295424l-1919.397721,0l0,1078.295424z"/>
+  </clipPath>
+  <clipPath id="clipPath58" clipPathUnits="userSpaceOnUse">
+   <path id="path56" d="m0.00002,1080.189941l1921.709941,0l0,-1086.246671l-1921.709941,0l0,1086.246671z"/>
+  </clipPath>
+  <clipPath id="clipPath90" clipPathUnits="userSpaceOnUse">
+   <path id="path88" d="m11.7831,1078.209961l1898.886944,0l0,-1036.187759l-1898.886944,0l0,1036.187759z"/>
+  </clipPath>
+  <clipPath id="clipPath94" clipPathUnits="userSpaceOnUse">
+   <path id="path92" d="m11.7831,1017.590027l1868.126934,0l0,-975.567825l-1868.126934,0l0,975.567825z"/>
+  </clipPath>
+  <clipPath id="clipPath98" clipPathUnits="userSpaceOnUse">
+   <path id="path96" d="m121.596001,1078.209961l1789.074043,0l0,-960.409958l-1789.074043,0l0,960.409958z"/>
+  </clipPath>
+  <clipPath id="clipPath866" clipPathUnits="userSpaceOnUse">
+   <path id="path864" d="m0,1080l1920,0l0,-1080l-1920,0l0,1080z"/>
+  </clipPath>
+  <clipPath id="clipPath886" clipPathUnits="userSpaceOnUse">
+   <path id="path884" d="m1609.829956,82.258797l26.47998,0l0,-18.675697l-26.47998,0l0,18.675697z"/>
+  </clipPath>
+  <clipPath id="clipPath902" clipPathUnits="userSpaceOnUse">
+   <path id="path900" d="m1600.180054,103.190002l22.859985,0l0,-26.422401l-22.859985,0l0,26.422401z"/>
+  </clipPath>
+  <clipPath id="clipPath918" clipPathUnits="userSpaceOnUse">
+   <path id="path916" d="m1618.189941,89.932297l22.119995,0l0,-26.286697l-22.119995,0l0,26.286697z"/>
+  </clipPath>
+  <clipPath id="clipPath934" clipPathUnits="userSpaceOnUse">
+   <path id="path932" d="m1604.199951,103.116997l26.459961,0l0,-18.675995l-26.459961,0l0,18.675995z"/>
+  </clipPath>
+  <clipPath id="clipPath970" clipPathUnits="userSpaceOnUse">
+   <path id="path968" d="m0,1080l1920,0l0,-1080l-1920,0l0,1080z"/>
+  </clipPath>
+  <clipPath id="clipPath970-8" clipPathUnits="userSpaceOnUse">
+   <path id="path968-3" d="m0,1080l1920,0l0,-1080l-1920,0l0,1080z"/>
+  </clipPath>
+  <clipPath id="clipPath970-9" clipPathUnits="userSpaceOnUse">
+   <path id="path968-7" d="m0,1080l1920,0l0,-1080l-1920,0l0,1080z"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="168" width="168" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path opacity="0.95" fill="#ffffff" fill-rule="nonzero" id="path994" d="m129.252441,126.794975c-6.484406,0 -12.58252,-2.52475 -17.167175,-7.107819l-24.788757,-24.788055c-1.73967,-1.745087 -4.77359,-1.739624 -6.513199,0l-24.87896,24.878998c-4.585449,4.582275 -10.683517,7.107056 -17.167923,7.107056l-4.884689,0l31.394463,31.395226c9.805115,9.804352 25.702164,9.804352 35.507263,0l31.485428,-31.485405l-2.98645,0z"/>
+  <path opacity="0.95" fill="#ffffff" fill-rule="nonzero" id="path998" d="m38.736565,39.113884c6.484406,0 12.58252,2.525543 17.167175,7.108612l24.878952,24.882843c1.791725,1.791718 4.717537,1.7995 6.513954,-0.002319l24.78801,-24.790375c4.585449,-4.583069 10.683517,-7.107819 17.167923,-7.107819l2.985687,0l-31.484604,-31.48465c-9.805145,-9.805115 -25.702148,-9.805115 -35.507309,0l-31.393715,31.393707l4.883926,0z"/>
+  <path opacity="0.95" fill="#ffffff" fill-rule="nonzero" id="path1002" d="m158.280106,65.246819l-19.026489,-19.026489c-0.418976,0.167908 -0.872162,0.272858 -1.351013,0.272858l-8.650024,0c-4.472687,0 -8.850571,1.813446 -12.010391,4.975616l-24.788818,24.788757c-2.318726,2.31955 -5.366608,3.480865 -8.41214,3.480865c-3.047897,0 -6.09346,-1.161316 -8.412956,-3.478485l-24.881317,-24.881317c-3.160568,-3.16214 -7.537659,-4.975647 -12.010391,-4.975647l-10.636879,0c-0.45314,0 -0.877571,-0.107269 -1.277908,-0.258026l-19.101883,19.101868c-9.805145,9.804352 -9.805145,25.701385 0,35.507294l19.101128,19.101135c0.40033,-0.150818 0.825523,-0.258087 1.278709,-0.258087l10.636833,0c4.472733,0 8.849823,-1.813507 12.010391,-4.975647l24.87899,-24.878937c4.496796,-4.49295 12.335289,-4.49527 16.827423,0.002319l24.788818,24.785675c3.159821,3.162933 7.537704,4.97644 12.010391,4.97644l8.65007,0c0.479614,0 0.931992,0.104126 1.35173,0.272034l19.025726,-19.024933c9.805145,-9.805908 9.805145,-25.702942 0,-35.507294"/>
+ </g>
+</svg>

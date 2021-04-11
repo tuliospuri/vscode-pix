@@ -1,0 +1,85 @@
+{
+	"name": "vscode-pix",
+	"displayName": "Pix",
+	"description": "Pix no VSCode",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"Pix",
+		"Carteira"
+	],
+	"preview": true,
+	"activationEvents": [
+		"onView:vscode-pix.balance",
+		"onView:vscode-pix.send",
+		"onView:vscode-pix.settings"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"viewsContainers": {
+			"activitybar": [
+				{
+					"id": "pixView",
+					"title": "Pix",
+					"icon": "resources/icons/pix.svg"
+				}
+			]
+		},
+		"views": {
+			"pixView": [
+				{
+					"id": "vscode-pix.balance",
+					"name": "Saldo",
+					"type": "webview"
+				},
+				{
+					"id": "vscode-pix.send",
+					"name": "Enviar Pix",
+					"type": "webview"
+				},
+				{
+					"id": "vscode-pix.settings",
+					"name": "Configuração",
+					"type": "webview"
+				}
+			]
+		},
+		"commands":[
+			{
+				"command": "vscode-pix.balance.reload",
+				"title": "Pix: Atualizar saldo"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile && npm run lint",
+		"lint": "eslint src --ext ts",
+		"test": "node ./out/test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/glob": "^7.1.3",
+		"@types/mocha": "^8.0.4",
+		"@types/node": "^12.11.7",
+		"@types/node-fetch": "^2.5.8",
+		"@types/vscode": "^1.54.0",
+		"@typescript-eslint/eslint-plugin": "^4.14.1",
+		"@typescript-eslint/parser": "^4.14.1",
+		"eslint": "^7.19.0",
+		"glob": "^7.1.6",
+		"mocha": "^8.2.1",
+		"typescript": "^4.1.3",
+		"vscode-test": "^1.5.0"
+	},
+	"dependencies": {
+		"node-fetch": "^2.6.1",
+		"ssl-validator": "^1.0.7"
+	}
+}

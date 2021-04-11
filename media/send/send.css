@@ -1,0 +1,32 @@
+form {
+	margin-top: 15px;
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+/* Remove arrows from input number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input::-webkit-input-placeholder {
+	font-size: 11px;
+}
+
+#containerDashboard,
+#containerSettingsStatus {
+	display: none;
+}
+
+#containerSettingsStatus {
+	line-height: 160%;
+	margin: 10px 0;
+}
+
+#containerSettingsStatus p:nth-child(2) {
+	margin-left: 14px;
+}

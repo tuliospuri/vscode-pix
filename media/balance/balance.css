@@ -1,0 +1,10 @@
+#containerBalance,
+#containerSettingsStatus {
+	display: none;
+	line-height: 160%;
+	margin: 10px 0;
+}
+
+#containerSettingsStatus p:nth-child(2) {
+	margin-left: 14px;
+}
