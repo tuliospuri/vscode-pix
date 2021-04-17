@@ -3,7 +3,7 @@
 	"displayName": "Pix",
 	"publisher": "tuliospuri",
 	"description": "Pix no VSCode",
-	"version": "0.0.4",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.54.0"
 	},

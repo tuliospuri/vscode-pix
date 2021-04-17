@@ -1,4 +1,4 @@
-# (POC) Extensão VSCode que envia de Pix
+# (POC) Extensão VSCode que envia Pix
 
 ![](https://img.shields.io/badge/Pix-Gerencianet-orange)
 
